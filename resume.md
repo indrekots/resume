@@ -1,14 +1,8 @@
-Markdown Resumé
+Indrek Ots
 ===============
 
 [Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
 <http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
 
 Work Experience
 ---------------
@@ -30,27 +24,20 @@ Work Experience
     -   Installed and configured the unusual TeX setups required by the
         best-looking \LaTeX\ resumés
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Nortal**
 
-    *Web Resumé Intern*, August 2010
+    *Java Developer*, June 2010 - September 2013
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    -   Implemented unique software solutions for Estonia's Government institutions and other public sector organizations
+    -   Projects I was involved with: Information System for the National Budget, 
 
-*   **Markdown with Pandoc**
+*   **Ericsson**
 
-    *Resumé Architect*, February 2011 - present
+    *Software Developer / Intern*, January 2011 - June 2011
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   Working in a research project which was part of the Stockholm Royal Seaport program
+    -   The work was part of my BSc thesis
+    -   The subject of the research was to find and implement possible ways to interface a hybrid mobile app with a smart card inserted to smartphones SD card slot.
 
 
 Education
@@ -67,5 +54,3 @@ Skills
 *   Very experienced with Python, Markdown, \LaTeX
 
 *   Familiar with GNU Make, bash
-
-
