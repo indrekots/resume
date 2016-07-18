@@ -1,35 +1,40 @@
 Indrek Ots
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+nationality: Estonian
+e-mail: ots.indrek@gmail.com
+<http://blog.indrek.io>
+<https://www.linkedin.com/in/indrekots>
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Concise Systems**
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Software Developer / Consultant*, February 2014 - June 2016
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Worked on a parking app/platform which serves over 1 million customers in 9 countries.
+    -   My area of responsibility was implementing back-end services.
 
-*   **\LaTeX\ + pdflatex**
+*   **Fugu**
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *Software Developer / Consultant*, September 2013 - Present
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Personal company for freelance projects
 
-*   **Nortal**
+*   **Yep**
 
-    *Java Developer*, June 2010 - September 2013
+    *Software Developer & Partner*, June 2012 - November 2013
 
-    -   Implemented unique software solutions for Estonia's Government institutions and other public sector organizations
-    -   Projects I was involved with: Information System for the National Budget, 
+    -   Worked on an NFC tag management platform
+    -   Web development and consulting
+
+*   **Estonian Information Technology College**
+
+    *Lecturer*, September 2012 - February 2013
+
+    - Taught a course on Java web application development
+    - Topic covered: Java Servlet API, Spring MVC, Spring Security, Vaadin, Javascript
 
 *   **Ericsson**
 
@@ -39,18 +44,31 @@ Work Experience
     -   The work was part of my BSc thesis
     -   The subject of the research was to find and implement possible ways to interface a hybrid mobile app with a smart card inserted to smartphones SD card slot.
 
+*   **Nortal**
+
+    *Java Developer*, June 2010 - September 2013
+
+    -   Implemented unique software solutions for Estonia's Government institutions and other public sector organizations
+    -   Projects I was involved with: Information System for the Estonia's National Budget, European Union Structural Assistance to Estonia, Information System for Estonia's Private Forest Center Foundation, Population and Housing Census 2011
+
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Tallinn University of Technology**
 
-    *B.S. in Submodules*, May 2012
+    *M.S. in Informatics*, September 2012 - (have not graduated)
+
+*   **Estonian Information Technology College** (*cum laude*)
+
+    *B.S. in IS Development*, September 2008 - June 2011
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Java back-end development (Java, Spring, Tomcat)
+*   Linux and configuration management (Ansible)
+*   Continuous Integration
+*   Proponent of Clean Code
+*   Javascript
